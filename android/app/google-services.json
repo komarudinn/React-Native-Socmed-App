@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125951405130",
+    "firebase_url": "https://instazam-27ef0.firebaseio.com",
+    "project_id": "instazam-27ef0",
+    "storage_bucket": "instazam-27ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125951405130:android:1203f4cceb3924f02b8ab3",
+        "android_client_info": {
+          "package_name": "com.learnnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125951405130-uba8865gua4j22ih1cmlp45k6our71lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learnnative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "125951405130-k6m82m6ap1sgmdn51ro9upikv4haj84r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT496t2_iyZPua0LpHRz5nncF9XZBGYxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125951405130-k6m82m6ap1sgmdn51ro9upikv4haj84r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
